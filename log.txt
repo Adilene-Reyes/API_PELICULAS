@@ -1,0 +1,12 @@
+25/4/2026, 6:54:28 p.m. - GET en /peliculas/?key=12345 
+25/4/2026, 7:02:47 p.m. - POST en /peliculas/?key=12345 
+25/4/2026, 7:02:59 p.m. - POST en /peliculas/ 
+25/4/2026, 7:03:13 p.m. - GET en /peliculas/?key=12345 
+25/4/2026, 7:05:43 p.m. - POST en /peliculas/?key=12345 
+25/4/2026, 7:08:16 p.m. - POST en /peliculas/?key=12345 
+25/4/2026, 7:08:25 p.m. - GET en /peliculas/?key=12345 
+25/4/2026, 7:09:42 p.m. - GET en /peliculas/2/?key=12345 
+25/4/2026, 7:12:43 p.m. - PUT en /peliculas/2/?key=12345 
+25/4/2026, 7:15:27 p.m. - PUT en /peliculas/2/?key=12345 
+25/4/2026, 7:20:32 p.m. - PUT en /peliculas/2/?key=12345 
+25/4/2026, 7:22:19 p.m. - DELETE en /peliculas/2/?key=12345 
